@@ -1,0 +1,26 @@
+Hi Miriam, here's some wrap-up info!
+
+Sam, what we've done is implement a master set of data filtering procedures on the sales transactions. There's info here and on Github.
+
+Database changes
+The filtered sales transactions are copied into a new table on the database server. This turned out to be smoother to implement than adding new columns to the existing table.
+
+Documentation
+The final Word document is attached. I also added some documentation on Github along with my code.  
+https://github.com/ual/dataquick/blob/master/ucb_documentation/indicators.md
+https://github.com/ual/dataquick/blob/master/ucb_documentation/data_processing.md (last section)
+
+Updated stats tables
+I'm attaching some updated stats tables:
+- residential sale counts by year and tract
+- median price per square foot by year and tract, divided into single-fam and multi-fam
+
+Sam, would it be possible to update the flips too? Miriam had asked about this.
+
+Updated data extracts
+And finally, i regenerated the CSV extracts and uploaded them to Box under sales/v3.
+
+Let me know if you have any questions, or if there are pieces i missed!
+
+Cheers,
+Sam
